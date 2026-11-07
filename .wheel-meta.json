@@ -1,0 +1,22 @@
+{
+  "wheel_id": 802,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-114",
+  "project": "fencing-contractors-toowoomba-maintenance-ff8c115fafdc4a05dab54",
+  "parent_t1_ref": "toowoombafencing-156",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba maintenance",
+  "intended_url": "https://sitesau.github.io/toowoombafencing-114/",
+  "tier": "T2",
+  "writeback_nonce": "2cf6630e837ee61d",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-council-and-approvals-60119b30b0f/",
+      "anchor": "https://aumedia.neocities.org/fencing-contractors-toowoomba-council-and-approvals-60119b30b0f/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
